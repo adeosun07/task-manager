@@ -106,4 +106,4 @@ lib/
   supabase.js
 ```
 You can follow the steps above to run locally. However, this is the apk link:
-
+https://expo.dev/artifacts/eas/mijVo4JVwdMDmoAqzNDdKs.apk
